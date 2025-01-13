@@ -1,0 +1,6 @@
+@WebAPI_Video_HostAddress = http://localhost:5298
+
+GET {{WebAPI_Video_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
